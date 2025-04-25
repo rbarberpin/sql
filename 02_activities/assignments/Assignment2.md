@@ -45,7 +45,8 @@ There are several tools online you can use, I'd recommend [Draw.io](https://www.
 
 **HINT:** You do not need to create any data for this prompt. This is a conceptual model only. 
 
-![image](https://github.com/user-attachments/assets/54372a8b-60e9-469b-88d4-0baf2863393c)
+![image](https://github.com/user-attachments/assets/2fe9f219-ca8e-45f9-95aa-72be8db467ea)
+
 
 
 #### Prompt 2
