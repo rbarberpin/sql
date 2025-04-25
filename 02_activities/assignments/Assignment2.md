@@ -45,8 +45,14 @@ There are several tools online you can use, I'd recommend [Draw.io](https://www.
 
 **HINT:** You do not need to create any data for this prompt. This is a conceptual model only. 
 
+![image](https://github.com/user-attachments/assets/54372a8b-60e9-469b-88d4-0baf2863393c)
+
+
 #### Prompt 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
+
+![image](https://github.com/user-attachments/assets/88abf1f2-b955-4076-a37a-1f29291687fd)
+
 
 #### Prompt 3
 The store wants to keep customer addresses. Propose two architectures for the CUSTOMER_ADDRESS table, one that will retain changes, and another that will overwrite. Which is type 1, which is type 2? 
