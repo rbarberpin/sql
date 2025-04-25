@@ -51,7 +51,8 @@ There are several tools online you can use, I'd recommend [Draw.io](https://www.
 #### Prompt 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
 
-![image](https://github.com/user-attachments/assets/88abf1f2-b955-4076-a37a-1f29291687fd)
+![image](https://github.com/user-attachments/assets/e6f22bf9-5ef3-4bd9-8ead-912cbf8b15d1)
+
 
 
 #### Prompt 3
