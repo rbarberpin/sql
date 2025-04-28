@@ -63,7 +63,11 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Answer
+The first architecture that could be proposed that would overwrite customer addresses would be type 1. Type 1 slowly changing dimensions (SCD) architecture overwrites old data in a dimension table with new data.
+
+The second architecture that could be proposed that would retain changed to the table would be type 2. Type 2 slowly changing dimension (SCD) architecture maintains a history of changes, allowing users to view past versions and adds new rows to the table, rather than overwriting like type 1. 
+
 ```
 
 ***
