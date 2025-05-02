@@ -45,8 +45,17 @@ There are several tools online you can use, I'd recommend [Draw.io](https://www.
 
 **HINT:** You do not need to create any data for this prompt. This is a conceptual model only. 
 
+![image](https://github.com/user-attachments/assets/2fe9f219-ca8e-45f9-95aa-72be8db467ea)
+
+
+
 #### Prompt 2
 We want to create employee shifts, splitting up the day into morning and evening. Add this to the ERD.
+
+![image](https://github.com/user-attachments/assets/2dcb693c-86e1-4af2-9997-eb004dc7a81d)
+
+
+
 
 #### Prompt 3
 The store wants to keep customer addresses. Propose two architectures for the CUSTOMER_ADDRESS table, one that will retain changes, and another that will overwrite. Which is type 1, which is type 2? 
@@ -54,7 +63,11 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Answer
+The first architecture that could be proposed that would overwrite customer addresses would be type 1. Type 1 slowly changing dimensions (SCD) architecture overwrites old data in a dimension table with new data.
+
+The second architecture that could be proposed that would retain changed to the table would be type 2. Type 2 slowly changing dimension (SCD) architecture maintains a history of changes, allowing users to view past versions and adds new rows to the table, rather than overwriting like type 1. 
+
 ```
 
 ***
